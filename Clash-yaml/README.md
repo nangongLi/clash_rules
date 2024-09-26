@@ -1,3 +1,17 @@
+# 远程配置
+> ACL4SSR配置
+
+* [ACL4SSR_Online_Full.ini](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini)
+
+> hope140配置
+
+* [Adblock.yaml](https://raw.githubusercontent.com/hope140/Clash/refs/heads/main/Adblock.yaml)
+
+> 自用配置
+
+* [My_Clash.ini](https://raw.githubusercontent.com/nangongLi/clash_rules/refs/heads/main/Clash-yaml/My_Clash.ini)
+
+
 # 覆写规则
 > ACL4SSR覆写规则
 
